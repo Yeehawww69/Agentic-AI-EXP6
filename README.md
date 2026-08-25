@@ -31,6 +31,9 @@ User -> Coordinator -> Research -> Analysis -> Writer -> Review -> Final Output
 6. Run: `python main.py`
 
 ## 13. Example Input
+Prepare a report on the applications of Artificial Intelligence in Healthcare.
+
+## 14. Example Output
 PS C:\Users\exam1\Desktop\aaiexp6> & C:\Python313\python.exe c:/Users/exam1/Desktop/aaiexp6/main.py
 
 ============================================================
@@ -331,7 +334,4 @@ The global healthcare AI market stands at a pivotal transition point. With advan
 Process completed successfully.
 ============================================================
 
-
-## 14. Example Output
-The system will output the step-by-step thinking of each agent, followed by a polished Markdown report in the "FINAL OUTPUT" section.
-
+PS C:\Users\exam1\Desktop\aaiexp6> 
